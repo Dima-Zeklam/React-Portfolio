@@ -24,6 +24,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
 import profile from "assets/img/theme/myimage.jpg";
+import Landing from "./Landing";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -146,7 +147,7 @@ class Profile extends React.Component {
                         <p>
                         A Developer with a background in computer Science, interested in technologies and programming, looking to be a professional Full Stack Web Developer.
                         </p>
-                        <a href="https://dima-zeklam-portfolio.netlify.app/landing-page" onClick={e => e.preventDefault()}>
+                        <a href={"https://dima-zeklam-portfolio.netlify.app/landing-page"} >
                           Show more
                         </a>
                       </Col>
