@@ -147,9 +147,7 @@ class Profile extends React.Component {
                         <p>
                         A Developer with a background in computer Science, interested in technologies and programming, looking to be a professional Full Stack Web Developer.
                         </p>
-                        <a href={"https://dima-zeklam-portfolio.netlify.app/landing-page"} >
-                          Show more
-                        </a>
+                        
                       </Col>
                     </Row>
                   </div>
