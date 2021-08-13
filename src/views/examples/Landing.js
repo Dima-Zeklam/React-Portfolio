@@ -938,7 +938,7 @@ class Landing extends React.Component {
                         block
                         className="btn-white"
                         color="default"
-                        href="https://dima-zeklam-portfolio.netlify.app/profile-page"
+                        href="https://dima-zeklam-portfolio.netlify.app/"
                         size="lg"
                       >
                         visit my profile

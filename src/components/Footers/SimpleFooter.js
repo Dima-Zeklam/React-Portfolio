@@ -90,21 +90,7 @@ class SimpleFooter extends React.Component {
                   .
                 </div>
               </Col>
-              <Col md="6">
-                <Nav className=" nav-footer justify-content-end">
-                  <NavItem>
-                    <NavLink
-                      href="https://dima-zeklam-portfolio.netlify.app/landing-page"
-                      target="_blank"
-                    >
-                      Portfolio
-                    </NavLink>
-                  </NavItem>
-                
-                 
-                  
-                </Nav>
-              </Col>
+             
             </Row>
           </Container>
         </footer>

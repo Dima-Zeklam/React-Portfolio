@@ -144,7 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                        A passionate Developer with a background in computer Science, interested in technologies and programming, looking to be a professional Full Stack Web Developer.
+                        A Developer with a background in computer Science, interested in technologies and programming, looking to be a professional Full Stack Web Developer.
                         </p>
                         <a href="https://dima-zeklam-portfolio.netlify.app/landing-page" onClick={e => e.preventDefault()}>
                           Show more
