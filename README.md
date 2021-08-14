@@ -2,22 +2,22 @@
 
 ### Time Estimate
 #### feature 1 : Start with Do list and track the instructions
-* Estimate of time needed to complete: 2 hours
+* Estimate of time needed to complete: 1 hours
 
 * Start time: 10:15am
 
-* Finish time: 12:15pm
+* Finish time: 11:15pm
 
-* Actual time needed to complete: 3 hours
+* Actual time needed to complete: 1 hours
 
 #### feature 2 : Modify the content and set images 
 * Estimate of time needed to complete: 3 hours
 
-* Start time: 1:00am
+* Start time: 11:30am
 
-* Finish time: 6:30pm
+* Finish time: 3:30pm
 
-* Actual time needed to complete: 5:30 hours
+* Actual time needed to complete: 4:30 hours
 
 
 
